@@ -1,2 +1,0 @@
-# kangnamhyo.github.io
-portfolio
